@@ -6,3 +6,4 @@ output
 *.o
 *.exe
 .gitattributes
+.vscode
